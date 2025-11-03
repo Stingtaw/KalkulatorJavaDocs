@@ -1,0 +1,14 @@
+# Folder hasil compile Java
+bin/
+out/
+*.class
+
+# Folder hasil JavaDocs (opsional, biasanya tidak disimpan di GitHub)
+docs/
+
+# Pengaturan VS Code (optional)
+.vscode/
+
+# File sistem umum
+.DS_Store
+Thumbs.db
