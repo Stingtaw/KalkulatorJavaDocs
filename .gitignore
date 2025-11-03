@@ -3,12 +3,12 @@ bin/
 out/
 *.class
 
-# Folder hasil JavaDocs (opsional, biasanya tidak disimpan di GitHub)
+# Hasil JavaDocs 
 docs/
 
-# Pengaturan VS Code (optional)
+# Pengaturan VS Code
 .vscode/
 
-# File sistem umum
+# File sistem
 .DS_Store
 Thumbs.db
