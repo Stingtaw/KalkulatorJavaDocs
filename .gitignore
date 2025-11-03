@@ -3,9 +3,6 @@ bin/
 out/
 *.class
 
-# Hasil JavaDocs 
-docs/
-
 # Pengaturan VS Code
 .vscode/
 
